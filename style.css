@@ -1,0 +1,167 @@
+.header{
+    width: 560px;
+    margin: 0 auto;
+    padding: 20px 0px;
+    margin: 40px auto;
+}
+.header_link{
+    margin: 0 35px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    text-decoration: none;
+    color: #047600;
+}
+.card{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    width: 420px;
+    height: 546px;
+    left: 300px;
+    top: 182px;
+
+}
+.card_text {
+}
+.card-text1 {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+color: #B4AD9E;
+}
+.card-text2 {
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: #626262;
+
+}
+.card-text3 {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;
+}
+.card-img{
+
+}
+.card_2{
+    width: 400px;
+    width: 500px;
+    position: absolute;
+    width: 420px;
+    height: 546px;
+    left: 750px;
+    top: 182px;
+}
+.card-img-2 {
+}
+.card_text-2 {
+}
+.card-text-2_1 {
+    font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+color: #B4AD9E;
+}
+.card-text-2_2 {
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: #626262;
+}
+.card-text-2_3 {
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #626262;z    
+}
+.card-3 {
+    width: 400px;
+    width: 500px;
+    position: absolute;
+    width: 421px;
+    height: 516px;
+    left: 300px;
+    top: 720px;
+}
+.card-img-2 {
+}
+.card_text-3 {  
+}
+.card-text-3_1 {
+    font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+color: #B4AD9E;
+}
+.card-text-3_2 {
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: #626262;
+}
+.card-text-3_3 {
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #626262;
+}
+.card-4 {
+    width: 400px;
+    width: 500px;
+    position: absolute;
+    width: 421px;
+    height: 516px;
+    left: 750px;
+    top: 720px;
+}
+.card-img-4 {
+}
+.card_text-4 {
+}
+.card-text-4_1 {
+    font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+color: #B4AD9E;
+}
+.card-text-4_2 {
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: #626262;
+}
+.card-text-4_3 {
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #626262;
+}
